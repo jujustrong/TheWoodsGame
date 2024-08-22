@@ -1,0 +1,14 @@
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.AssemblyInfoInputs.cache
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.AssemblyInfo.cs
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.csproj.CoreCompileInputs.cache
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/bin/Debug/net8.0/TheWoodsGame
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/bin/Debug/net8.0/TheWoodsGame.deps.json
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/bin/Debug/net8.0/TheWoodsGame.runtimeconfig.json
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/bin/Debug/net8.0/TheWoodsGame.dll
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/bin/Debug/net8.0/TheWoodsGame.pdb
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.dll
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/refint/TheWoodsGame.dll
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.pdb
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/TheWoodsGame.genruntimeconfig.cache
+/Users/jarmstrong/Desktop/repos/TheWoodsGame/obj/Debug/net8.0/ref/TheWoodsGame.dll
